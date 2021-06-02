@@ -21,7 +21,7 @@
 %	 REQUIRED PACKAGES
 %----------------------------------------------------------------------------------------
 
-\RequirePackage[sfdefault]{ClearSans}
+% \RequirePackage[sfdefault]{ClearSans}
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T1]{fontenc}
 \RequirePackage{tikz}
